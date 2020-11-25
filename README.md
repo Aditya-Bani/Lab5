@@ -1,9 +1,53 @@
-# lab-5
+# Lab 5
 ## Latihan 1
+![SoalLatihan](Latihan/Gambar/SoalLatihan.jpeg)
 
-* Belom
+**Untuk Codenya bisa dilihat dibawah ini :**
 
-## Tugas Praktikum 5
+![Gbr1](Latihan/Gambar/gbr1.PNG)
+![gbr2](Latihan/Gambar/gbr2.PNG)
+
+
+## Hasil Output :
+
+#### Daftar Kontak
+
+*  Output menampilkan daftar kontak berdasarkan
+
+![DaftarKontak](Latihan/Gambar/DaftarKontak.PNG)
+
+#### Menambah Kontak Baru Riko
+* Output menambahkan kontak baru Riko
+
+![KontakBaru](Latihan/Gambar/KontakBaru.PNG)
+
+#### Ubah Kontak Dina
+* Output mengubah kontak dina dengan nomor baru 088999776
+
+![UbahKontakDina](Latihan/Gambar/UbahKontakDina.PNG)
+
+#### Tampilkan semua Nama
+* Output menampilkan semua Nama
+
+![TampilkanNama](Latihan/Gambar/SemuaNama.PNG)
+
+#### Tampilkan semua nomor
+* Output menampilkan semua nomor
+
+![SemuaNomor](Latihan/Gambar/SemuaNomor.PNG)
+
+#### Tampilkan daftar nama dan nomor
+* Output menampilkan semua nama dan nomornya
+
+![TampilanSemuaNamaDanNomor](Latihan/Gambar/TampilanNamaDanNomor.PNG)
+
+#### Hapus Kontak Dina
+* Output menghapus kontak Dina
+
+![HapusKontakDina](Latihan/Gambar/HapusKontakDina.PNG)
+
+
+# Tugas Praktikum 5
 
 ![soal-praktikum-5](TugasPraktikum/Gambar/Soal.png)
 
