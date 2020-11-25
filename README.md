@@ -2,7 +2,7 @@
 ## Latihan 1
 ![SoalLatihan](Latihan/Gambar/SoalLatihan.jpeg)
 
-**Untuk Codenya bisa dilihat dibawah ini :**
+* **Untuk Codenya bisa dilihat dibawah ini :**
 
 ![Gbr1](Latihan/Gambar/gbr1.PNG)
 ![gbr2](Latihan/Gambar/gbr2.PNG)
