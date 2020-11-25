@@ -5,14 +5,15 @@
 
 ## Tugas Praktikum 5
 
-![soal-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/1.png)
+![soal-praktikum-5](TugasPraktikum/Gambar/Soal.png)
 
 **Code:**
 
-![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/2.png)
-![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/3.png)
-![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/4.png)
-![sc-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/5.png)
+![gbr1](TugasPraktikum/Gambar/gbr1.PNG)
+![gbr2](TugasPraktikum/Gambar/gbr2.PNG)
+![gbr3](TugasPraktikum/Gambar/gbr3.PNG)
+![gbr4](TugasPraktikum/Gambar/gbr4.PNG)
+![gbr4](TugasPraktikum/Gambar/gbr5.PNG)
 
 **Penjelasan:**
 
@@ -73,32 +74,27 @@
 
 **Output:**
 
-Tambah data
+#### Lihat Data
 
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/t.png)
+![LihatData](TugasPraktikum/Gambar/LihatData.PNG)
 
+#### Tambah Data
 
-Ubah data
+![TambahData](TugasPraktikum/Gambar/TambahData.PNG)
 
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/u.png)
+#### Ubah data
+![UbahData](TugasPraktikum/Gambar/UbahData.PNG)
 
+#### Cari data
 
-Lihat data
+![CariData](TugasPraktikum/Gambar/CariData.PNG)
 
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/l.png)
+#### Hapus data
 
-
-Cari data
-
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/c.png)
-
-
-Hapus data
-
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/h.png)
+![HapusData](TugasPraktikum/Gambar/HapusData.PNG)
 
 
 **Flowchart:**
 
 
-![output-praktikum-5](assets/img/tugas-praktikum-5/tugas-praktikum/flowchart.png)
+![Flowchart](TugasPraktikum/Gambar/flowchart.png)
