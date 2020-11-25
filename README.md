@@ -1,3 +1,48 @@
+# DAFTAR TUGAS
+
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 4</b></td>
+    <td>Latihan VCS</td>
+    <td><a href="https://github.com/Aditya-Bani/LatihanVCS">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 5</b></td>
+    <td>Program Biodata</td>
+    <td><a href="https://github.com/Aditya-Bani/Pertemuan-5">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 6</b></td>
+    <td>Lab1 dan 2</td>
+    <td><a href="https://github.com/Aditya-Bani/ProjectPraktikum">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>Lab3</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab3">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Labspy02</td>
+    <td><a href="https://github.com/Aditya-Bani/Labspy02">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Labpy03</td>
+    <td><a href="https://github.com/Aditya-Bani/Labspy03">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 9</b></td>
+    <td>Lab 4</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab4">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Lab 5</td>
+    <td><a href="https://github.com/Aditya-Bani/Lab5">Klik disini</td>
+  </tr>
+</table>
+
 # Lab 5
 ## Latihan 1
 ![SoalLatihan](Latihan/Gambar/SoalLatihan.jpeg)
