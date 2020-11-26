@@ -57,7 +57,7 @@
 
 #### Daftar Kontak
 
-*  Output menampilkan daftar kontak berdasarkan
+*  Output menampilkan daftar kontak
 
 ![DaftarKontak](Latihan/Gambar/DaftarKontak.PNG)
 
